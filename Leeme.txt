@@ -1,0 +1,2 @@
+Descomprime los archivos ZIP de las imagenes y copia y pega las imagenes de los 2 archivos ZIP en una sola carpeta llamada
+"imagenes". Luego corta esa carpeta en el proyecto tesina para que cargen las imagenes en sus respectivas rutas dentro de las paginas HTML.
